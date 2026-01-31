@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Blog | Canvas of Hope</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <h1>Stories & Reflections</h1>
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="about.html">About</a>
+    <a href="services.html">Services</a>
+    <a href="blog.html">Blog</a>
+    <a href="contact.html">Contact</a>
+  </nav>
+</header>
+
+<div class="container">
+  <h2>Art Exhibit for Pag-asa Para sa Bata Inc.</h2>
+  <p>
+    An art exhibit and sale was held where each painting was sold for ₱150.
+    All artworks were sold out, and proceeds funded the next activity for
+    children in a public school.
+  </p>
+
+  <p>
+    This initiative served as a “pay-it-forward” model, supporting children
+    previously served in private schools under the Pag-asa Project.
+  </p>
+
+  <p>
+    Identified cases included bullying victims, sexual abuse, dysfunctional
+    families, adoption-related concerns, depression, suicidal tendencies,
+    and school-related stressors.
+  </p>
+</div>
+
+<footer>© 2026 Canvas of Hope</footer>
+
+</body>
+</html>

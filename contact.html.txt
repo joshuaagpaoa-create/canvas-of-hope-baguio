@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Contact | Canvas of Hope</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <h1>Contact</h1>
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="about.html">About</a>
+    <a href="services.html">Services</a>
+    <a href="blog.html">Blog</a>
+    <a href="contact.html">Contact</a>
+  </nav>
+</header>
+
+<div class="container">
+  <p><strong>Phone:</strong> +63 961 593 0650</p>
+  <p><strong>Email:</strong> joshuaagpaoa@gmail.com</p>
+
+  <h2>Lead Facilitator</h2>
+  <p>
+    <strong>Joshua Agpaoa, Ph.D.</strong> — recipient of several government scholarships,
+    including a Master of Education (USA), Master of Laws (China), Indonesian Art and
+    Cultural Studies (Indonesia), and alumnus of the University of the Philippines Fine Arts Program.
+  </p>
+
+  <p>
+    He is an Art Teacher, Intercultural Communication Specialist, Clinically Trained Minister
+    (College of Pastoral Supervision & Psychotherapy Philippines-USA), and Lead Facilitator
+    of Canvas of Hope Trauma & Crisis Care.
+  </p>
+</div>
+
+<footer>© 2026 Canvas of Hope</footer>
+
+</body>
+</html>

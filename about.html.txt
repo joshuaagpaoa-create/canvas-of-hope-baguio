@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>About | Canvas of Hope</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <h1>About Canvas of Hope</h1>
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="about.html">About</a>
+    <a href="services.html">Services</a>
+    <a href="blog.html">Blog</a>
+    <a href="contact.html">Contact</a>
+  </nav>
+</header>
+
+<div class="container">
+  <p>
+    Canvas of Hope is a dedicated space for individuals in crisis to find healing
+    and hope through creative expression.
+  </p>
+
+  <p><strong>Healing through creativity. Hope through community.</strong></p>
+</div>
+
+<footer>© 2026 Canvas of Hope</footer>
+
+</body>
+</html>
+
+<h2>Important Notice</h2>
+<p>
+  Canvas of Hope provides <strong>supplemental, early-detection, and referral-based
+  trauma and crisis care</strong> through creative and faith-informed approaches.
+</p>
+
+<p>
+  We do <strong>not replace</strong> the work of licensed Guidance Counselors,
+  Psychologists, or Psychiatrists.
+</p>
+
+<p>
+  Individuals identified as needing specialized mental health or medical intervention
+  are <strong>referred to appropriate professionals and institutions</strong>.
+</p>

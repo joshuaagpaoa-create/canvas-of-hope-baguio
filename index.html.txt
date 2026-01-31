@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Canvas of Hope | Our Story</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <h1>Canvas of Hope</h1>
+  <p>Healing through creativity. Hope through community.</p>
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="about.html">About</a>
+    <a href="services.html">Services</a>
+    <a href="blog.html">Blog</a>
+    <a href="contact.html">Contact</a>
+  </nav>
+</header>
+
+<div class="container">
+  <h2>Our Story</h2>
+
+  <p><strong>August 2025</strong> — Canvas of Hope was launched in partnership with Life Changers Ministry to serve youth in conflict with the law, along with their carers and social workers, at Bahay Pag-Asa, La Trinidad, Benguet, through the Provincial Social Welfare and Development Office of the Cordillera Administrative Region.</p>
+
+  <p><strong>September 2025</strong> — Canvas of Hope was invited to the Baguio General Hospital and Medical Center Cancer Center in partnership with Kabsat in Adversity Inc., serving cancer patients, their families, and carers.</p>
+
+  <p><strong>October 14, 2025</strong> — The first Volunteer Trauma and Crisis Care Orientation and Workshop was held at Gospel Light International Worship Center, attended by 29 volunteers who experienced the art process, reflective therapy, and client processing.</p>
+
+  <p><strong>October 20, 2025</strong> — Canvas of Hope conducted its first school-based Trauma and Crisis Care and Response Program in partnership with Pag-asa Para sa Bata at Kabataan Project Inc., serving 42 high school students in Baguio City.</p>
+
+  <p><strong>October 31, 2025</strong> — A workshop was held at the Philippine Baptist Theological Seminary in partnership with Bukal Life.</p>
+
+  <p><strong>November 19, 2025</strong> — New volunteers joined after a workshop at Calvary Church Baguio, bringing the team to 33 official volunteers.</p>
+
+  <p><strong>November 21, 2025</strong> — Justin held his first art exhibit after completing his first cycle at Saint Louis University – Pedagogical Development Center.</p>
+
+  <p><strong>January 13, 2026</strong> — In partnership with a public school in Baguio and Pag-asa Para sa Bata at Kabataan Inc., Canvas of Hope served 42 primary students with newly trained volunteers.</p>
+</div>
+
+<footer>© 2026 Canvas of Hope</footer>
+
+</body>
+</html>

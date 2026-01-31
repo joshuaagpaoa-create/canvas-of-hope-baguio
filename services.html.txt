@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Services | Canvas of Hope</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <h1>Our Services</h1>
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="about.html">About</a>
+    <a href="services.html">Services</a>
+    <a href="blog.html">Blog</a>
+    <a href="contact.html">Contact</a>
+  </nav>
+</header>
+
+<div class="container">
+  <h2>Online Counseling</h2>
+  <p>₱200 per session (phone-based)</p>
+
+  <h2>Ministry Rates</h2>
+  <p>
+    Churches, fellowships, and youth ministries are welcome to invite us in exchange
+    for a love gift. No fixed fee is required.
+  </p>
+  <p>Materials may be prepared by the group or by Canvas of Hope.</p>
+
+  <h2>Individual & Group Rates</h2>
+  <ul>
+    <li>₱1000 / kit — includes meal or coffee</li>
+    <li>₱800 / kit — with meal or coffee (minimum 5 participants)</li>
+    <li>₱550 / kit — minimum of 10 participants</li>
+  </ul>
+
+  <h2>Art Kit Includes</h2>
+  <ul>
+    <li>1 Canvas</li>
+    <li>5 Acrylic paints</li>
+    <li>3 Brushes</li>
+    <li>1 Mixing palette</li>
+    <li>1 Water tub</li>
+    <li>1 Rug</li>
+    <li>1 Reflection kit</li>
+  </ul>
+
+  <h2>Art for a Cause</h2>
+  <p>
+    Donate your paintings for our exhibit. Each artwork sold directly supports
+    a child in crisis under the Pag-asa Project.
+  </p>
+</div>
+
+<footer>© 2026 Canvas of Hope</footer>
+
+</body>
+</html>
